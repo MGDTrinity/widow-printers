@@ -1,19 +1,19 @@
 {
     "mirador-viewer": {
             
-        "displayName": "Provenance Project",
+        "displayName": "Digitised Materials",
         "aliases": "Mirador IIIF viewer",
         "class": "mirador",
-        "file": "mirador.json",
-        "title": "The Crewe Collection Provenance Project",
-        "content": "<p>[##]</p>",
+        "file": "mirador-complex.json",
+        "title": "The Digitised Hershcel Matierals from Trinity College, Cambridge",
+        "content": "All of the existing material related the the Herschel family that has currently been digitised by Trinity Colle, Cambridge, is available via the viewer below. As these IIIF manifests have been created on an ad-hoc basis over the last few years, variations in form and content are to be expected. Over the coming months, we seek to standardise these records as well as begin to digitise the remaining material held in the college's collections<p>[##]</p>",
         "content right": ""		
             },
     
-    "About the Crewe Collection": {
-        "title": "About The Crewe Collection",
-        "content": "<p>The [Crewe Collection|https://lib-cat.trin.cam.ac.uk/Search/Results?lookfor=Crewe&amp;type=CallNumber] consists of over 7,500 books bequeathed by Mary, Duchess of Roxburghe (1915-2014). Her father, Robert Crewe-Milnes and grandfather, Richard Monckton Milnes both studied at Trinity before embarking on important political careers. Between the 1830s and the early twentieth century they amassed an extraordinary library and [one of the most important private collections in Britain.|https://youtu.be/q947Gx69wEE]</p><p></p><p>The collection includes major works of English and French literature, rare political pamphlets, trial transcripts and several unpublished literary manuscripts, as well as first editions inscribed by Byron, Shelley, Wordsworth, and Tennyson. Over half of the collection is works in French, reflecting Monckton Milnes’ particular interest in the French Revolution. Cataloguing work on the Crewe collection is ongoing.</p><p><p></p>Find out more about the history of the collection:</p><p><ul><li>[Crewe collection timeline|https://www.tiki-toki.com/timeline/entry/1035913/The-Crewe-Collection/]</li><p></p><li>[Map|https://www.trin.cam.ac.uk/wp-content/uploads/Crewe-map-with-history-names-and-dates.jpg]</li><p></p><li>[Family tree|https://www.trin.cam.ac.uk/wp-content/uploads/Crewe-Family-Tree.jpg]</li></ul></p>",
-        "content right": "<figure class=\"figure\"><img src=\"graphics\/Crewe%20shelf.jpg\" class=\"figure-img img-fluid rounded\" alt=\"Photograph of some of the Crewe Collection in the Wren Library\"></figure>"	
+    "About the Hershcel Material": {
+        "title": "About The Herschel Material",
+        "content": "<p>The materials related to the Herschel family at Trinity College are found within our modern manuscripts collection, and are available via the [AtoM catalogue|https://archives.trin.cam.ac.uk/index.php/informationobject/browse?topLod=0&sort=relevance&query=Herschel]. INSERT DIANA'S TEXT HERE.</p><p><iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3Zw9gUiQyO4LmpDM32sLLsKRyeuBmHpQJEl8vocQYlaQYtnnk6kpvUPreHZ-_k-bvKZhKVl1hTHro/pubhtml?widget=true&amp;headers=false\"></iframe>",
+        "content right": ""	
         },
         
     "Acknowledgements": {
