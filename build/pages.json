@@ -1,7 +1,7 @@
 {
     "mirador-viewer": {
             
-        "displayName": "Digitised Materials",
+        "displayName": "Exhibition Walkthrough",
         "aliases": "Mirador IIIF viewer",
         "class": "mirador",
         "file": "mirador.json",
